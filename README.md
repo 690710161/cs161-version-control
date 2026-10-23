@@ -15,3 +15,6 @@
 - Artificial Intelligence
 - Game Development
 - mink rak p'jazz
+
+## Mink skill
+- wowowossiodwikpdw
