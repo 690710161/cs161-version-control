@@ -15,3 +15,8 @@
 - Artificial Intelligence
 - Game Development
 - mink rak p'jazz
+
+## Skills
+- Problem solving
+- Python basics
+- Teamwork
