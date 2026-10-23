@@ -14,3 +14,4 @@
 ## Technology Interests
 - Artificial Intelligence
 - Game Development
+- mink rak p'jazz
